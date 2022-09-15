@@ -1,2 +1,2 @@
 # Odin-Recipes
-Creating a ordinary HTML recipe pages.<br>
+Creating a ordinary recipe pages using basic HTML & CSS.<br>
