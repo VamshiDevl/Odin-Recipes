@@ -1,2 +1,6 @@
 # Odin-Recipes
-Creating a ordinary recipe pages using basic HTML & CSS.<br>
+This recipe page using basic HTML & CSS.<br>
+
+# Link
+
+- [Try the website](https://vamshidevl.github.io/Odin-Recipes/)
